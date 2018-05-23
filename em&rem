@@ -8,4 +8,5 @@ em：　親要素に設定してあるフォントサイズに対する比率
 rem: ルートに設定してあるフォントサイズに対する比率
 例)「html」に「font-size: 10px;」が設定してあり、その中のpが「font-size: 2rem」の場合、フォントサイズは20pxになる
 
-※可変にしたい場合は、vwを使う
+※可変にしたい場合は、vw、vhを使う
+https://qiita.com/katsunory/items/3bede89cee8e2ded8426
